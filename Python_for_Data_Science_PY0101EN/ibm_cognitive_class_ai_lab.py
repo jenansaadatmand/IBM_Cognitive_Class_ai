@@ -54,7 +54,7 @@ print("Hello World!")
 print("7. Types of objects in Python")
 
 # Type of objects in Python. Python is an interpreted object-oriented language 
-print("object types, data structures: strings, integers, floats, list, typles, dictionary, sets, arrays")
+print("object types, data structures: strings, integers, floats, list, tuples, dictionary, sets, arrays")
 
 # strings(str): collection of chracters, words. strings can be represented with single quotes ('1.2') or double quotes ("1.2"), but you can't mix both (e.g., "1.2')
 # integers(int):whole numbers, positive & negative
