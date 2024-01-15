@@ -99,7 +99,7 @@ print(int('1'))
 
 # if we try to do the so with a string we will get an error.
 #print(int('1 or 2 people'))
-# you will get ValueError: invalid literal for int() with base 10: '1 or 2 people'
+# You will get ValueError: invalid literal for int() with base 10: '1 or 2 people'
 
 print("Converting strings containing") # floating point into float objects
 print(float('1.2'))
