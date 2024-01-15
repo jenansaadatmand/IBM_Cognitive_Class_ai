@@ -87,7 +87,7 @@ print("converting/type cast integers to floats, and checking its type at the sam
 
 print(type(int(2)))
 
-# When we convert an integer into a float, we don't really change the value (i.e., the significand) of the number. However, if we cast a float into an integer, we could potentially lose some information. For example, if we cast the float 1.1 to integer we will get 1 and lose the decimal information (i.e., 0.1):
+# When we convert an integer into a float, we don't change the value (i.e., the significand) of the number. However, if we cast a float into an integer, we could potentially lose some information. For example, if we cast the float 1.1 to integer we will get 1 and lose the decimal information (i.e., 0.1):
 
 print("casting float to integer and lose information")
 # For example, if we cast the float 1.1 to integer we will get 1 and lose the decimal information (i.e., 0.1):
