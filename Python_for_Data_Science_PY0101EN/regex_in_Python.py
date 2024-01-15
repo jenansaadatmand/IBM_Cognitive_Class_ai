@@ -23,7 +23,7 @@ else:
 print()
 # Regular expressions (RegEx) are patterns used to match and manipulate strings of text. There are several special sequences in RegEx that can be used to match specific characters or patterns.
     
-# Special Sequence	Meaning	Example:
+# Special sequence	    Meaning	        Example:
 # \d	Matches any digit character (0-9)	"123" matches "\d\d\d"    
 
 # \D	Matches any non-digit character	"hello" matches "\D\D\D\D\D"
