@@ -101,6 +101,3 @@ print("\\")
 print(r"\ ")
 print("\n")
 print("I \t am")
-
-
-
