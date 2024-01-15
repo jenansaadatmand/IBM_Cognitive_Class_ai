@@ -6,5 +6,3 @@ hours = minutes / 60
 
 print(hours)
 print()
-
-
