@@ -94,7 +94,7 @@ print("casting float to integer and lose information")
 print(int(1.1)) 
 
 print("Converting from string to integers or floats")
-# if we have a string that contains a number within it. we can cast that string into an integer
+# If we have a string that contains a number within it. we can cast that string into an integer
 print(int('1'))
 
 # if we try to do the so with a string we will get an error.
