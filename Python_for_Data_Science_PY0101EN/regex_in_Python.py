@@ -1,7 +1,7 @@
 # RegEx (Regular Expression) in Python is a tool for matching and handeling strings:
 # Built-in RegEx module, re, provides several functions, including search, split, findall, and sub
 
-# import RegEx module 
+# Import RegEx module 
 import re
 
 # search() function searches for specified patterns within a string
