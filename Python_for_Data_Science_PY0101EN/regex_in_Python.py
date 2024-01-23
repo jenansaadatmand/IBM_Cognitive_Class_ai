@@ -1,4 +1,4 @@
-# RegEx (Regular Expression) in Python is a tool for matching and handeling strings:
+# RegEx (Regular Expression) in Python is a tool for matching and handling strings:
 # Built-in RegEx module, re, provides several functions, including search, split, findall, and sub
 
 # Import RegEx module 
