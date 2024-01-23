@@ -79,7 +79,7 @@ print(NT[2][1][3]) # accessing the fourth letter
 print()
 
 # Lists: are ordered sequence, represented with square bracket, lists are mutable 
-# Lists can contain strings, integers and floats
+# Lists can contain strings, integers, and floats
 L = ["Michael Jackson", 10.1, 1982]
 # lists can be nested in other lists  
 L1 = ["Michael Jackson", 10.1, 1982, [1, 2], ['A', 1]]
