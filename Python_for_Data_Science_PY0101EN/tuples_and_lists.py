@@ -35,7 +35,7 @@ print(tuples2[0:3]) # not including index 3, the last index is one larger than t
 print("This is the last two elements",tuples2[3: 5]) 
 print()
 
-# to obtain the length of the tuple 
+# To obtain the length of the tuple 
 print(len(tuples2))
 print()
 
