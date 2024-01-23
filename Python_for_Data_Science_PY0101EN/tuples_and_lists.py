@@ -43,7 +43,7 @@ print()
 Ratings1 = Ratings 
 print(Ratings1)
 
-# As a consequence of immutability, if we would like to manipulate a tuple, we must create a new tuples instead
+# As a consequence of immutability, if we would like to manipulate a tuple, we must create a new tuple instead
 
 # Creating a new tuple, we can assign a different tuple to Ratings tuple
 Ratings = (2, 10, 1)
