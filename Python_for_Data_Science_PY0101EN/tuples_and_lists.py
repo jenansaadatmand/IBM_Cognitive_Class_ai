@@ -28,7 +28,7 @@ print()
 #Accessing items within tuples via index number
 print(tuples2[-1])
 
-# Slicing tuples to retrieve portion of tuples
+# Slicing tuples to retrieve a portion of tuples
 print(tuples2[0:3]) # not including index 3, the last index is one larger the index you want
 
 # accessing the last two elements using slicing
