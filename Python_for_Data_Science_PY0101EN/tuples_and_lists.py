@@ -9,7 +9,7 @@ tuples = ("disco", 10, 1.2)
 print(tuples)
 print()
 
-# Each element in tuple can be accessed via an index
+# Each element in a tuple can be accessed via an index
 print(tuples[0])
 print(tuples[1])
 print(tuples[2])
