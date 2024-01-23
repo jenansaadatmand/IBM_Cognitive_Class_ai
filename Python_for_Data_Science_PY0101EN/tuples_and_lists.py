@@ -145,9 +145,9 @@ print(a)
 print("A, B, C, D".split(",")) 
 
 
-# Multiple names referring to the same object is known as aliasing, if A and B reference the same list, then if zou change one the other list changes
+# Multiple names referring to the same object is known as aliasing, if A and B reference the same list, then if you change one the other list changes
 a = ["banana", 10, 1.2]
-b = a # creating an alias list, not a clone, i.e. both a and b referring to the same list, so changing one list will lead to side effect on chaning the other list 
+b = a # creating an alias list, not a clone, i.e. both a and b referring to the same list, so changing one list will lead to a side effect on changing the other list 
 print(a)
 print(b)
 b[0] = "hard rock"
@@ -161,14 +161,14 @@ print()
 # Cloning lists
 A = ["hard rock", 10, 1.2]
 B = A[:] # clone list a from beginning index to end index
-print(B) # refrences a new clone or copy of list a
+print(B) # Refrences a new clone or copy of list a
 print()
 
 
 # In this case: if you change a, b will not change
 A[0] = 'banana'
 print(A)
-print(B) # list B does not change
+print(B) # List B does not change
 print()
 
 
