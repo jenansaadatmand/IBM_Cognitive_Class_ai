@@ -101,7 +101,7 @@ print(L1[-1][0][2])
 print()
 
 # Slicing in lists to retrieve a portion of a list
-L =["Michael JAckson", 10.1, 1982, "MJ", 1]
+L =["Michael Jackson", 10.1, 1982, "MJ", 1]
 print(L[3:5]) # not including index 5, last index is one larger than the length of the list
 
 # Concatenate or combine lists by adding them using the operator (+)
