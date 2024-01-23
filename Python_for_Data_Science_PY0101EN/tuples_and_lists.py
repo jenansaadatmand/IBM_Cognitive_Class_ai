@@ -113,7 +113,7 @@ print()
 # Lists are mutable, therefore, we can change them 
 # Every time we apply a method the list changes
 # .extend(new list) method to concatenate lists
-# Here we create a nw list using the .extend() method, you can more than one element or a list to a list
+# Here we create a new list using the .extend() method, you can more than one element or a list to a list
 L.extend(["pop", 10]) 
 print(L)
 
