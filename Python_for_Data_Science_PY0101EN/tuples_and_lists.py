@@ -1,5 +1,5 @@
 # Compound data types: Tuples and lists 
-# Tuples are ordered sequence, its immutable, written as a comma-separated elements within parentheses
+# Tuples are ordered sequence, immutable, written as comma-separated elements within parentheses
 Ratings = (10, 9, 6, 5, 10, 8, 9, 6, 2)
 print(Ratings)
 # tuples can contain string, int, and float 
