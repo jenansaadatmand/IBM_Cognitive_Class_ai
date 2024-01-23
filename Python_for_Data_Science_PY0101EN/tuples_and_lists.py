@@ -73,7 +73,7 @@ print()
 print(NT[3][0])
 print(NT[-1][1])
 
-# we can access different characters within the tuples
+# We can access different characters within the tuples
 print(NT[2][1][0]) # accessing the first letter
 print(NT[2][1][3]) # accessing the fourth letter
 print()
