@@ -102,7 +102,7 @@ print()
 
 # Slicing in lists to retrieve a portion of a list
 L =["Michael Jackson", 10.1, 1982, "MJ", 1]
-print(L[3:5]) # not including index 5, last index is one larger than the length of the list
+print(L[3:5]) # not including index 5, the last index is one larger than the length of the list
 
 # Concatenate or combine lists by adding them using the operator (+)
 # Here we create a new list by adding another list
