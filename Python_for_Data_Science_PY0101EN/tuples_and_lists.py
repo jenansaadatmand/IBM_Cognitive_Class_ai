@@ -31,7 +31,7 @@ print(tuples2[-1])
 # Slicing tuples to retrieve a portion of tuples
 print(tuples2[0:3]) # not including index 3, the last index is one larger than the index you want
 
-# accessing the last two elements using slicing
+# Accessing the last two elements using slicing
 print("This is the last two elements",tuples2[3: 5]) 
 print()
 
