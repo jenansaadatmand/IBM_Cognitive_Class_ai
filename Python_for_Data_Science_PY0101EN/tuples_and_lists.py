@@ -160,7 +160,7 @@ print()
 
 # Cloning lists
 A = ["hard rock", 10, 1.2]
-B = A[:] # clone list a from begining index to end index
+B = A[:] # clone list a from beginning index to end index
 print(B) # refrences a new clone or copy of list a
 print()
 
