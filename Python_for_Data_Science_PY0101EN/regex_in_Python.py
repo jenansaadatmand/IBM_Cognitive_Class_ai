@@ -83,13 +83,13 @@ split_array = re.split("\s", s2)
 print(split_array)
 print()
 
-# The sub function (substitue) of a regular expression in Python is used to replace all occurrences of a pattern in a string with a specified replacement.
+# The sub function (substitute) of a regular expression in Python is used to replace all occurrences of a pattern in a string with a specified replacement.
 
 # Define the regular expression pattern to search for 
 pattern = r"King of Pop"
 # Define the replacement string
 replacement = "legend"
-# Use the sub function to replace the pattern with the replcacement string
+# Use the sub function to replace the pattern with the replacement string
 new_string = re.sub(pattern, replacement, s2, flags = re.IGNORECASE)
 
 # Print out the list of matched words
