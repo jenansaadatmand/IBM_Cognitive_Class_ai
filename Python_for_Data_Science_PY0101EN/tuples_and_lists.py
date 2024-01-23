@@ -104,7 +104,7 @@ print()
 L =["Michael JAckson", 10.1, 1982, "MJ", 1]
 print(L[3:5]) # not including index 5, last index is one larger than the length of the list
 
-# Concatenate or combine lists by ading them using the operator (+)
+# Concatenate or combine lists by adding them using the operator (+)
 # Here we creat a new list by adding another list
 L1 = L + ["pop", 10]
 print(L1)
