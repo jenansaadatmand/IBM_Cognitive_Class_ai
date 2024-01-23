@@ -81,7 +81,7 @@ print()
 # Lists: are ordered sequence, represented with square brackets, lists are mutable 
 # Lists can contain strings, integers, and floats
 L = ["Michael Jackson", 10.1, 1982]
-# lists can be nested in other lists  
+# Lists can be nested in other lists  
 L1 = ["Michael Jackson", 10.1, 1982, [1, 2], ['A', 1]]
 print(L1)
 # nesting a tuple in a list
