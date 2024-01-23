@@ -140,14 +140,14 @@ a = "hard rock".split()
 print(a)
 
 # Use the split() function to separate strings on a specific character known as a delimiter 
-# pass the delimiter we want to split on as an rgument, in this case a comma
+# Pass the delimiter we want to split on as an rgument, in this case a comma
 
 print("A, B, C, D".split(",")) 
 
 
-# Multiple names referring to the same object is known as aliasing, if A and B refrencing the same list, then if zou change one the other list changes
+# Multiple names referring to the same object is known as aliasing, if A and B reference the same list, then if zou change one the other list changes
 a = ["banana", 10, 1.2]
-b = a # creating an alias list, not a clone, i.e. both a and b refering to the same list, so changing one list will lead to side effect on chaning the other list 
+b = a # creating an alias list, not a clone, i.e. both a and b referring to the same list, so changing one list will lead to side effect on chaning the other list 
 print(a)
 print(b)
 b[0] = "hard rock"
