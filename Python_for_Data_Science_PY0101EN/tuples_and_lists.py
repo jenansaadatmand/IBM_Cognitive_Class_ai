@@ -117,7 +117,7 @@ print()
 L.extend(["pop", 10]) 
 print(L)
 
-# you can add only one item using .append() method
+# You can add only one item using .append() method
 L.append("Toto")
 print(L)
 L.append(['blob', 100]) # appending a list to a list
