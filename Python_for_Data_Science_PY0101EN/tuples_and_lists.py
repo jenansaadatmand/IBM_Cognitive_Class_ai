@@ -87,7 +87,7 @@ print(L1)
 # nesting a tuple in a list
 L1 = ["Michael Jackson", 10.1, 1982, [1, 2], ('A', 1), ('pop', 'rock')]
 print(L1)
-# Each element can be accessed via index
+# Each element can be accessed via the index
 print(L[0])
 print(L[1])
 print(L[2])
