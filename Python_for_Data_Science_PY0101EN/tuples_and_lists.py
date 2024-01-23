@@ -25,7 +25,7 @@ tuples2 = tuples + ("hard rock", 10)
 print(tuples2)
 print()
 
-#Accessing items within tuples via index number
+# Accessing items within tuples via index number
 print(tuples2[-1])
 
 # Slicing tuples to retrieve a portion of tuples
