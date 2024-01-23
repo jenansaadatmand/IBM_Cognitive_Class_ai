@@ -52,7 +52,7 @@ print()
 
 # To sort a tuple we use sorted() function
 RatingsSorted = sorted(Ratings)
-print(RatingsSorted) # input original tuple, output is a sorted tuple
+print(RatingsSorted) # input original tuple, the output is a sorted tuple
 print()
 # A tuple can contain other tuples, Nesting tuples
 
