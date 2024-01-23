@@ -172,7 +172,7 @@ print(B) # list B does not change
 print()
 
 
-# get help on list, tuples in Python by passing the list in the help() function
+# Get help on list, tuples in Python by passing the list in the help() function
 # help(A) # class list iterable, mutable sequence
 
 A = (0, 1, 2, 3)
