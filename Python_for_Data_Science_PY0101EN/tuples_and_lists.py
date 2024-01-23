@@ -140,7 +140,7 @@ a = "hard rock".split()
 print(a)
 
 # Use the split() function to separate strings on a specific character known as a delimiter 
-# Pass the delimiter we want to split on as an rgument, in this case a comma
+# Pass the delimiter we want to split on as an argument, in this case, a comma
 
 print("A, B, C, D".split(",")) 
 
