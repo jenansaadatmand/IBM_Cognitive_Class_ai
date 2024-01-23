@@ -87,10 +87,10 @@ print("converting/type cast integers to floats, and checking its type at the sam
 
 print(type(int(2)))
 
-# When we convert an integer into a float, we don't change the value (i.e., the significand) of the number. However, if we cast a float into an integer, we could potentially lose some information. For example, if we cast the float 1.1 to integer we will get 1 and lose the decimal information (i.e., 0.1):
+# When we convert an integer into a float, we don't change the value (i.e., the significand) of the number. However, if we cast a float into an integer, we could potentially lose some information. For example, if we cast the float 1.1 to an integer we will get 1 and lose the decimal information (i.e., 0.1):
 
 print("casting float to integer and lose information")
-# For example, if we cast the float 1.1 to integer we will get 1 and lose the decimal information (i.e., 0.1):
+# For example, if we cast the float 1.1 to an integer we will get 1 and lose the decimal information (i.e., 0.1):
 print(int(1.1)) 
 
 print("Converting from string to integers or floats")
@@ -198,7 +198,7 @@ total_min = 43 + 42 + 57 # Total length of albums in minutes
 print(total_min)
 
 print("#name the variables meaningfully:")
-total_hours = total_min / 60 # Total length og albums in hours
+total_hours = total_min / 60 # Total length of albums in hours
 
 print("# complicate expression:")
 total_hours = (43 + 42 + 57) / 60 # Total hours in a single expression
