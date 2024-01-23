@@ -1,5 +1,5 @@
 # RegEx (Regular Expression) in Python is a tool for matching and handling strings:
-# Built-in RegEx module, re, provides several functions, including search, split, findall, and sub
+# Built-in RegEx module, re, provides several functions, including search, split, find all, and sub
 
 # Import RegEx module 
 import re
@@ -21,7 +21,7 @@ else:
     print("Match not found.")
 
 print()
-# Regular expressions (RegEx) are patterns used to match and manipulate strings of text. There are several special sequences in RegEx that can be used to match specific characters or patterns.
+# Regular expressions (RegEx) are patterns used to match and manipulate strings of text. Several special sequences in RegEx can be used to match specific characters or patterns.
     
 # Special sequence	    Meaning	        Example:
 # \d	Matches any digit character (0-9)	"123" matches "\d\d\d"    
@@ -79,7 +79,7 @@ print()
 # A regular expression's split() function splits a string into an array of substrings based on a specified pattern.
 # Use the split function to split the string by the "\s"
 split_array = re.split("\s", s2)
-# The split_array contains all the substrings, split by whhitespace characters
+# The split_array contains all the substrings, split by whitespace characters
 print(split_array)
 print()
 
