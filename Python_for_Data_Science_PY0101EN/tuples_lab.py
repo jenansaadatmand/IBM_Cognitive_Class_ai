@@ -17,7 +17,7 @@ print(tuple1[-2]) # second last element
 print(tuple1[-3]) # third last element
 print()
 
-# printing the type of each index
+# Printing the type of each index
 print(type(tuple1[0]))
 print(type(tuple1[1]))
 print(type(tuple1[2]))
