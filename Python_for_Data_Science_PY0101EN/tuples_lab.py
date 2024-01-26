@@ -39,7 +39,7 @@ print(tuple2[3:]) # Result in ("hard rock", 10), obtain the last two elements
 # Obtain the length of the tuple
 print(len(tuple2))
 
-# sorting
+# Sorting
 Ratings = (0, 9,6,5,10, 8, 9, 6,2)
 RatingsSorted = sorted(Ratings)
 print(RatingsSorted)
