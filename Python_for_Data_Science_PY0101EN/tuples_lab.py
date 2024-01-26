@@ -105,10 +105,3 @@ print()
 C_tuple = (-5, 1, -3)
 C_list = sorted(C_tuple)
 print(C_list)
-
-
-
-
-
-
-
