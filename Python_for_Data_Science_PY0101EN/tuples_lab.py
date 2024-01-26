@@ -12,7 +12,7 @@ print(tuple1[0])
 print(tuple1[1])
 print(tuple1[2])
 print(tuple1[-1]) # Use the negative index to print the last element in the tuple
-# display the next two elements using a negative index
+# Display the next two elements using a negative index
 print(tuple1[-2]) # second last element
 print(tuple1[-3]) # third last element
 print()
