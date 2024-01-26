@@ -2,7 +2,7 @@
 # Creating a tuple
 tuple1 = ("disco", 10, 1.2)
 print(tuple1)
-# type of variable tuple
+# Type of variable tuple
 print(type(tuple1))
 print()
 
