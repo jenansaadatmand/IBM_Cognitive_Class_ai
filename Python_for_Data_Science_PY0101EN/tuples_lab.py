@@ -44,7 +44,7 @@ Ratings = (0, 9,6,5,10, 8, 9, 6,2)
 RatingsSorted = sorted(Ratings)
 print(RatingsSorted)
 
-# Nested tuple, create a nest tuple
+# Nested tuple, create a nested tuple
 NestedT = (1, 2, ("pop", "rock"), (3,4), ("disco", (1,2)))
 print(NestedT)
 print()
