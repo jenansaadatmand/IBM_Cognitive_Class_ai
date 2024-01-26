@@ -93,7 +93,7 @@ print()
 # Find the first two elements of the tuple genres_tuple
 print(genres_tuple[0:2]) # Not including 2
 
-# find the first index of "disco"
+# Find the first index of "disco"
 print(genres_tuple[-1][0])
 print(genres_tuple[7][0])
 print(genres_tuple.index("disco"))
