@@ -31,7 +31,7 @@ tuple2 = tuple1 + ("hard rock", 10)
 print(tuple2)
 print()
 
-# slice a tuple to retrieve a portion of it
+# Slice a tuple to retrieve a portion of it
 print(tuple2[0:3]) # result in tuple1
 print(tuple2[3:]) # result in ("hard rock", 10), obtain the last two elements
 
