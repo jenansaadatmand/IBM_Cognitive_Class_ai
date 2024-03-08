@@ -3,6 +3,7 @@
 # The address of each element within a list is called an index
 # An index is used to access and refer to items within a list
 # To create a list type the list within square brackets [ ], with your content inside the parenthesis and separated by commas
+
 # Create a list
 L = ["Michael Jackson", 10.1, 1982]
 print(L)  
