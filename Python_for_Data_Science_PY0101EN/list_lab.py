@@ -8,6 +8,7 @@
 # Create a list
 L = ["Michael Jackson", 10.1, 1982]
 print(L)  
+
 # Use negative and regular indexing with a list
 print(L[0])
 print(L[0][0])
