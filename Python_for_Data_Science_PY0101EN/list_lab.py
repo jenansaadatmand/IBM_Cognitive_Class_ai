@@ -48,7 +48,7 @@ L.extend(["pop", 10]) # Use extend to add multiple elements pass a list into ext
 print(L)
 L.append("Toto") # Append one element
 print(L)
-L.append(["Momo", 15]) # adding one element as a nested list
+L.append(["Momo", 15]) # Adding one element as a nested list
 print(L) 
 print()
 
