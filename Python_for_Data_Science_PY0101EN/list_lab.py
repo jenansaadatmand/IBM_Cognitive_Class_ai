@@ -43,7 +43,7 @@ print()
 
 # We can use the .extend() method to add new elements to the list
 L = ["Michael Jackson", 10.2]
-L.extend(["pop", 10]) # use extend to add multiple elements pass a list into extend to add elements
+L.extend(["pop", 10]) # Use extend to add multiple elements pass a list into extend to add elements
 print(L)
 L.append("Toto") # append one element
 print(L)
