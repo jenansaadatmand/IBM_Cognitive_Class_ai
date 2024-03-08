@@ -27,7 +27,7 @@ print()
 sample_list = ["Michael Jackson", 10.1, 1982, [1, 2], ("A", 1)]
 print(sample_list)
 
-# list operations
+# List operations
 
 # Slicing in lists, if we want the last two elements
 print(sample_list[3:])
