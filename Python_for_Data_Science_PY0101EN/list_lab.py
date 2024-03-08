@@ -82,7 +82,7 @@ print('A, B, C, D'.split())
 print()
 
 # Copy and clone list
-# When we set one variable B equal to A, both A and B are refrencing the same list in memory
+# When we set one variable B equal to A, both A and B are referencing the same list in memory
 # Copy (copy by reference) the list A
 A = ["hard rock", 10, 1.2]
 B = A
