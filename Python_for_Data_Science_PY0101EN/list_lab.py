@@ -97,7 +97,7 @@ print('B[0]:', B[0])
 print()
 
 # Clone (clone by value) the list A
-B = A[:] # clone list A by value from the begining to the end, here B is a new list 
+B = A[:] # clone list A by value from the beginning to the end, here B is a new list 
 print(B) # variable B references a new copy or clone of the original list
 print()
 
