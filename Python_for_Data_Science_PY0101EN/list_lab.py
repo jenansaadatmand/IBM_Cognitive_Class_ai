@@ -53,6 +53,7 @@ print(L)
 print()
 
 # Each time we apply a method, the list changes
+
 # Append the list ['a', 'b']
 L.append(['a', 'b'])
 print(L)
