@@ -72,7 +72,7 @@ del(A[0])
 print('After change:', A)
 print()
 
-# converting a string to a list using split() method, the method split translates every group of characters separated by a space into an element in a list:
+# Converting a string to a list using split() method, the method split translates every group of characters separated by a space into an element in a list:
 # Split the string, default is by space  
 print('hard rock'.split())
 # split the string on a specific character, which we call a delimiter. We pass the character we would like to split on into the argument, eg. comma. The result is a list
