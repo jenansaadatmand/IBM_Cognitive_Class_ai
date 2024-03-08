@@ -22,6 +22,7 @@ print('the same element using negative and positive indexing:\n Positive:', L[1]
 print('the same element using negative and positive indexing:\n Positive:', L[2], '\n Negative:', L[-1])
 
 print()
+
 # List content, strings, integers, floats, nested lists, nested tuples and other data structures
 sample_list = ["Michael Jackson", 10.1, 1982, [1, 2], ("A", 1)]
 print(sample_list)
