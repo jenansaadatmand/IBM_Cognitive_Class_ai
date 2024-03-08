@@ -46,7 +46,7 @@ print()
 L = ["Michael Jackson", 10.2]
 L.extend(["pop", 10]) # Use extend to add multiple elements pass a list into extend to add elements
 print(L)
-L.append("Toto") # append one element
+L.append("Toto") # Append one element
 print(L)
 L.append(["Momo", 15]) # adding one element as a nested list
 print(L) 
