@@ -56,6 +56,7 @@ print()
 L.append(['a', 'b'])
 print(L)
 print()
+
 # Lists are mutable, we can change them 
 A =["disco", 10, 1.2]
 print('Before change:', A)
