@@ -1,4 +1,5 @@
 # List lab
+
 #  A list is a sequence collection of different objects such as integers, strings, floats, and even other lists
 # The address of each element within a list is called an index
 # An index is used to access and refer to items within a list
