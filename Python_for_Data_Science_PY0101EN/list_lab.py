@@ -34,7 +34,7 @@ print(sample_list[3:])
 print(sample_list[3:5])
 print(sample_list[-2:])
 print()
-# slicing a new list
+# Slicing a new list
 L = ["Michael Jackson", 10.1, 1982, "MJ", 1]
 print(L)
 print(L[3:])
